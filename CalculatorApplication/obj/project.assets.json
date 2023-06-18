@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#_Projects\\CalculatorApplication\\CalculatorApplication\\CalculatorApplication.csproj",
+      "projectUniqueName": "D:\\C#_Projects\\HomeWork\\CalculatorApplication\\CalculatorApplication.csproj",
       "projectName": "CalculatorApplication",
-      "projectPath": "D:\\C#_Projects\\CalculatorApplication\\CalculatorApplication\\CalculatorApplication.csproj",
+      "projectPath": "D:\\C#_Projects\\HomeWork\\CalculatorApplication\\CalculatorApplication.csproj",
       "packagesPath": "C:\\Users\\temur\\.nuget\\packages\\",
-      "outputPath": "D:\\C#_Projects\\CalculatorApplication\\CalculatorApplication\\obj\\",
+      "outputPath": "D:\\C#_Projects\\HomeWork\\CalculatorApplication\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\temur\\AppData\\Roaming\\NuGet\\NuGet.Config",

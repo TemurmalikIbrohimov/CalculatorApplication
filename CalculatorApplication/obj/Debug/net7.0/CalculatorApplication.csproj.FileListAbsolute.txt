@@ -1,0 +1,15 @@
+D:\C#_Projects\HomeWork\CalculatorApplication\obj\Debug\net7.0\CalculatorApplication.csproj.AssemblyReference.cache
+D:\C#_Projects\HomeWork\CalculatorApplication\obj\Debug\net7.0\CalculatorApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_Projects\HomeWork\CalculatorApplication\obj\Debug\net7.0\CalculatorApplication.AssemblyInfoInputs.cache
+D:\C#_Projects\HomeWork\CalculatorApplication\obj\Debug\net7.0\CalculatorApplication.AssemblyInfo.cs
+D:\C#_Projects\HomeWork\CalculatorApplication\obj\Debug\net7.0\CalculatorApplication.csproj.CoreCompileInputs.cache
+D:\C#_Projects\HomeWork\CalculatorApplication\bin\Debug\net7.0\CalculatorApplication.exe
+D:\C#_Projects\HomeWork\CalculatorApplication\bin\Debug\net7.0\CalculatorApplication.deps.json
+D:\C#_Projects\HomeWork\CalculatorApplication\bin\Debug\net7.0\CalculatorApplication.runtimeconfig.json
+D:\C#_Projects\HomeWork\CalculatorApplication\bin\Debug\net7.0\CalculatorApplication.dll
+D:\C#_Projects\HomeWork\CalculatorApplication\bin\Debug\net7.0\CalculatorApplication.pdb
+D:\C#_Projects\HomeWork\CalculatorApplication\obj\Debug\net7.0\CalculatorApplication.dll
+D:\C#_Projects\HomeWork\CalculatorApplication\obj\Debug\net7.0\refint\CalculatorApplication.dll
+D:\C#_Projects\HomeWork\CalculatorApplication\obj\Debug\net7.0\CalculatorApplication.pdb
+D:\C#_Projects\HomeWork\CalculatorApplication\obj\Debug\net7.0\CalculatorApplication.genruntimeconfig.cache
+D:\C#_Projects\HomeWork\CalculatorApplication\obj\Debug\net7.0\ref\CalculatorApplication.dll
